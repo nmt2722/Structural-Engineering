@@ -1,1 +1,23 @@
-site_name: My Docs
+site_name: Structural Engineering
+plugins:
+
+  - search
+  - table-reader
+  - mkdocs-video
+  - awesome-pages
+
+theme: yeti
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - abbr
+  - extra
+  - smarty
+
+
+      
+
+
+
